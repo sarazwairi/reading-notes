@@ -22,11 +22,7 @@
 
  **Assignment**| **Link**
 ------------ | -------------
-<<<<<<< HEAD
 Read01       | [The Coder Computer](read01-TheCoder-Computer.md)
-=======
-Lab01        | [The Coder Computer](Lab01-Coder.md)
->>>>>>> 0f0fa40c277043f27f52140722bd40aeffc32673
 Lab02a       | [A Growth Mindest](Lab02a-Learning-Markdown.md)
 Read02a      | [Learning Markdown](Read02a-Learning-Markdown.md)
 Read02b      | [Revesions and Cloud](Read02-Revisions-TheCloud.md)
