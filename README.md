@@ -12,15 +12,15 @@
 >> * ***Make a new goal for every goal accomplished.***
 >> * ***View challenges as opportunities.***  
 >> * ***Learn from other people’s mistakes.***
-
- > *[Visit My GitHub portfolio page](https://github.com/sarazwairi)*
+>>
+> *[Visit My GitHub portfolio page](https://github.com/sarazwairi)*
 
 ## Code 102 Reading Notes
 
  **Assignment**| **Link**
 ------------ | -------------
 Read01       | [The Coder Computer](read01-TheCoder-Computer.md)
-Lab02a       | [A Growth Mindest](Lab02a-Learning-Markdown.md)
 Read02a      | [Learning Markdown](Read02a-Learning-Markdown.md)
 Read02b      | [Revesions and Cloud](Read02-Revisions-TheCloud.md)
-Read03       | [Structure Web Pages with HTML](read03.md)
+Read03       | [Structure Web Pages with HTML](readings/read03.md)
+Read04       | [Programming with JavaScript](readings/read04.md)
