@@ -8,21 +8,15 @@ HyperText Markup Language (HTML) defines the structure of a web page. The basic 
 
 Several HTML versions were created over the years, such as HTML 4, XHTML, which was derived from eXtensible Markup Language (XML), and lastly HTML 5. To specify the version the command DOCTYPE is used. For HTML5 the command is
 
-```
-<!DOCTYPE html>
-```
+`<!DOCTYPE html>`
 
 - Comments can be added to the code which makes it easier to understand
 
-```
-<!--- enter comment here --->
-```
+`<!--- enter comment here --->`
 
 - id and class attributes are used to uniquely identify elements so they are separately styled in CSS.
 
-```
-<p class="important">enter text here</p>
-```
+`<p class="important">enter text here</p>`
 
 - Some elements always start on a new line, called block elements. These are ```<h1>, <p>, <ul>, and <li>```. Other elements continue on the same line as the rest of the code, including ```<a>, <b>, <em>, and <img>```
 
