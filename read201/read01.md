@@ -1,5 +1,5 @@
 ## Read: 01- Introductory HTML and JavaScript
---------------------------------------------------------------------------------------------------
+
 **HTML Structure :**
 
 ```
@@ -22,9 +22,6 @@
 
 attribute : to provide additional information about an elements content, (name="value").
 
-
---------------------------------------------------------------------------------------------------
-
 **Extra Markup :**
 
 HTML5:
@@ -46,8 +43,7 @@ Strict XHTML 1.0:
 XML Declaration:
 
 `<?xml version="1.0" ?>`
-```
-----------------------------------------------------------------------------------------------
+
 comments tag :
 
 `<!-- -->`
@@ -56,11 +52,10 @@ HTML language contains 2 different types of elements :
 * Block elements.
 * Inline elements.
 
-----------------------------------------------------------------------------------------------
 **HTML5 Layout :**
 
 In HTML5 this has new tags for different webpage like , sectioning elements:
-```
+
 * `<header >`
 * `<main>`
 * `<nav>`
@@ -68,8 +63,7 @@ In HTML5 this has new tags for different webpage like , sectioning elements:
 * `<aside>`
 * `<section>`
 * `<footer>`
-```
-----------------------------------------------------------------------------------------------
+
 **Process and Design:**
 
 The most imporatant thing is UI/UX(user interface/user experience),you need to know ;
@@ -79,7 +73,6 @@ The most imporatant thing is UI/UX(user interface/user experience),you need to k
 
 after we answer those questions , we can develop the UI/UX and solve all problems,and create more functionality.
 
-----------------------------------------------------------------------------------------------
 
 # JavaScript 
 
@@ -93,7 +86,6 @@ Ways to use JS on a web page :
 * Program rules
 * React to events
 
-----------------------------------------------------------------------------------------------
 **The ABC of Programming:**
 
 (A) What is script and how to create?
