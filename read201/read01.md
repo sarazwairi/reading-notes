@@ -28,7 +28,7 @@ HTML5:
 
  `<!DOCTYPE html>`
 
-html4:
+HTML4:
 
 `<!DOCTYPE htm PUBLIC  "-//W3C//DTD HTML 4.01 Trasitional//EN"  "htpp://www.w3.org/TR/html4/loose.dtd">`
 
@@ -94,7 +94,7 @@ Ways to use JS on a web page :
 
 (C) How to write a script for a web page?
 
-JS ecpression :
+JS expression :
 
  variable variable-name = value ;
 
