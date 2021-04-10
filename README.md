@@ -31,7 +31,7 @@ Read06       | [Design web pages with CSS](readings/reading06.md)
 
  **Assignment**| **Link**
 ------------ | -------------
-Read01       | []()
+Read01       | [Introductory HTML and JavaScript](read201/read01.md)
 Read02       | []()
 Read03       | []()
 Read04       | []()
