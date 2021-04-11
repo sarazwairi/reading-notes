@@ -49,7 +49,7 @@ text-align: center;
 padding-top: 20%;
 }
 ```
-mult-element :
+multi-element :
 ```
 main h1,
 .text1,
@@ -64,9 +64,9 @@ Ways to use :
 * Internal
 * External ( best paractices)
 
-##JavaScript 
+## JavaScript 
 
-###Basic JavaScript instruction
+### Basic JavaScript instruction
 
 A script is a collection of one-by-one instractions.
 A statement is a name given to each particular instruction.
