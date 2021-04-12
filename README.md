@@ -33,7 +33,7 @@ Read06       | [Design web pages with CSS](readings/reading06.md)
 ------------ | -------------
 Read01       | [Introductory HTML and JavaScript](read201/read01.md)
 Read02       | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](read201/read02.md)
-Read03       | []()
+Read03       | [HTML Lists, CSS Boxes, JS Control Flow](read201/read03.md)
 Read04       | []()
 Read05       | []()
 Read06       | []()
