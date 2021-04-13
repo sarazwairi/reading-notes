@@ -38,21 +38,20 @@ Are a series of statements grouped togother to perform a task
 
 ```sayHello();```
 
-### DEeclaring functions with parameters:
+### Declaring functions with parameters:
 
 ```function getArea(width,height) {return width*height;}```
 
 ### Calling functions with arguments:
- 
-```getArea(3,5);
 
-wallWidth=3;wallHeight=5;getArea(wallWidth,wallHeight);```
+```getArea(3,5);```
+```wallWidth=3;wallHeight=5;getArea(wallWidth,wallHeight);```
 
 ### Getting a single value from a function
 
-```function calculationArea(width,height){var area=width*height;return area;}
-var wallOne=calculationArea(3,5);
-var wallTwo=calculationArea(8,5);```
+```function calculationArea(width,height){var area=width*height;return area;}```
+```var wallOne=calculationArea(3,5);```
+```var wallTwo=calculationArea(8,5);```
 
 ## Variable Scope
 
