@@ -1,11 +1,11 @@
 # reading-notes
 
-> My name is Sara Zwairi. I studied Biology in the University of Jordan. I'm seeking to improve my skills and knowledge in the Web Development in order to enhance my future career path. I’m so excited to learn with a beautiful team in Luminus college.
-___
+> My name is Sara Zwairi. I studied Biology in the University of Jordan. I'm seeking to improve >my skills and knowledge in the Web Development in order to enhance my future career path. I’m so excited to learn with a beautiful team in Luminus college.
+>>
 >When you’re starting off in a new career in the developer world, all the information you need
 to know can get quite overwhelming. It’s always best to be doing some additional reading in parallel with your online course or coding bootcamp, or even when you’ve already transitioned into your new career! there is many programming books for beginners, ranging from problem-solving tactics to technical books on JavaScript and Python languages.
 on this page i have my notes which i collected from reading during my course , i like to share it with you , please feel free to browser them.
-___
+>>
 >***A growth mindset*** is believing in the power of yourself and your brain! We know our abilities develop when we try difficult things, use the right strategies, and don't give up.
 So,a growth mindset is when we know, with practice, we will get better at something.
 
