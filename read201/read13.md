@@ -93,9 +93,9 @@ if (window.addEventListener) {
   window.attachEvent("onstorage", handle_storage);
 };
 
-
+```
 * callback function will called with StorageEvent object
-
+```
 function handle_storage(e) {
   if (!e) { e = window.event; }
 }
