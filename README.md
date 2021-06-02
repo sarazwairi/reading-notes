@@ -22,6 +22,8 @@ ___
 
 ## Code 102 Reading Notes
 
+## Intro to Software Development
+
  **Assignment**| **Link**
 ------------ | -------------
 Read01       | [The Coder Computer](read01-TheCoder-Computer.md)
@@ -33,6 +35,8 @@ Read05       | [Operators and Loops](readings/read05.md)
 Read06       | [Design web pages with CSS](readings/reading06.md)
 
 ## Code 201 Reading Notes
+
+## Foundations of Software Development
 
  **Assignment**| **Link**
 ------------ | -------------
@@ -51,3 +55,29 @@ Read12       | [Docs for the HTML ```<canvas>``` Element & Chart.js](read201/rea
 Read13       | [Local Storage](read201/read13.md)
 Read14a      | [CSS Transforms, Transitions, and Animations](read201/read14a.md)
 Read14b      | [What Google Learned About Teams](read201/read14b.md)
+
+## Code 301 Reading Notes
+
+## Intermediate Software Development
+
+ **Assignment**| **Link**
+------------ | -------------
+Read01       | []()
+Read02       | []()
+Read03       | []()
+Read04       | []()
+Read05       | []()
+Read06       | []()
+
+## Code 401 Reading Notes
+
+## Advanced Software Development
+
+ **Assignment**| **Link**
+------------ | -------------
+Read01       | []()
+Read02       | []()
+Read03       | []()
+Read04       | []()
+Read05       | []()
+Read06       | []()
