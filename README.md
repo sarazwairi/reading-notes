@@ -64,7 +64,7 @@ Read14b      | [What Google Learned About Teams](read201/read14b.md)
 ------------ | -------------
 Read01       | [Introduction to React and Components](read301/read01.md)
 Read02       | [State and Props](read301/read02.md)
-Read03       | []()
+Read03       | [Passing Functions as Props](read301/read03.md)
 Read04       | []()
 Read05       | []()
 Read06       | []()
