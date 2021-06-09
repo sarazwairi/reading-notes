@@ -4,7 +4,6 @@
 
 ```
 We should draw boxes around every component (and subcomponent) in the mock and give them all names.
-
 ```
 
 * What is the single responsibility principle and how does it apply to components?
@@ -22,12 +21,11 @@ A static build is a compiled version of a program which has been statically link
 * Once you have a static application, what do you need to add?
 
 ```
-
 State to make the UI interactive
 ```
 
-
 * What are the three questions you can ask to determine if something is state?
+
 ```
 Is it passed in from a parent via props? If so, it probably isn’t state.
 
@@ -35,7 +33,9 @@ Does it remain unchanged over time? If so, it probably isn’t state.
 
 Can you compute it based on any other state or props in your component? If so, it isn’t state.
 ```
+
 * How can you identify where state needs to live?
+
 ```
 Identify every component that renders something based on that state.
 
