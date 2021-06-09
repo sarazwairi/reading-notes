@@ -66,7 +66,7 @@ Read01       | [Introduction to React and Components](read301/read01.md)
 Read02       | [State and Props](read301/read02.md)
 Read03       | [Passing Functions as Props](read301/read03.md)
 Read04       | [React and Forms](read301/read04.md)
-Read05       | []()
+Read05       | [React Docs - thinking in React](read301/read05.md)
 Read06       | []()
 
 ## Code 401 Reading Notes
