@@ -34,13 +34,20 @@ If a system wants to replace something in another system, it uses an HTTP verb o
 
 
 
-### Geocoding API
+*Geocoding API*
+
 Did you get your API key? yes
-*** Weather Bit API ***
+
+*Weather Bit API*
+
 Did you get your API key? yes
-*** Yelp API Docs *** 
+
+*Yelp API Docs*
+
 Did you get your API key? yes
-*** The Movie DB API Docs ***
+
+*The Movie DB API Docs*
+
 Did you get your API key? yes
 
 ## Things I want to know more about
