@@ -14,6 +14,8 @@ last in first in
 
 ### Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
 
+![image](/img/Java.png)
+
 ### What causes a Stack Overflow?
 
 its happened when a dunction that calls itself without an exit point
