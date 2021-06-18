@@ -72,7 +72,7 @@ Read07       | [REST](read301/read07.md)
 Read08       | [RESTful web API design](read301/read08.md)
 Read09       | [Functional Programming Concepts](read301/read09.md)
 Read010      | [In memory storage](read301/read10.md)
-
+Read11       | [Authentication](read301/read11.md)
 
 ## Code 401 Reading Notes
 
