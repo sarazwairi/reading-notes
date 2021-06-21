@@ -74,7 +74,7 @@ Read09       | [Functional Programming Concepts](read301/read09.md)
 Read010      | [In memory storage](read301/read10.md)
 Read11       | [Authentication](read301/read11.md)
 Read12       | [Mongo and Mongoose](read301/read12.md)
-
+Read13       | [CRUD](read301/read13.md)
 
 ## Code 401 Reading Notes
 

@@ -6,7 +6,7 @@
    **SQL**                                         |   **NoSQL**
 ---------------------------------------------------|--------------------------------------------------
 SQL databases are primarily called as              |are primarily called as non-relational or distributed database.
-Relational Databases (RDBMS).                      | are the collection of key-value pair, documents     |                                                  |databases or wide-column stores
+Relational Databases (RDBMS).                      | are the collection of key-value pair, documents databases or wide-column stores    |-----------------------------------------------------------------------------------------------------
 table based databases.                             | dynamic schema for unstructured data.
 have predefined schema                             | horizontally scalable
 are vertically scalable                            | queries are focused on collection of documents
