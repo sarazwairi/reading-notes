@@ -1,4 +1,4 @@
-# reading-notes
+# Reading Notes
 
 My name is Sara Zwairi. I studied Biology in the University of Jordan. I'm seeking to improve my skills and knowledge in the Web Development in order to enhance my future career path. I’m so excited to learn with a beautiful team in Luminus college.
 
@@ -22,7 +22,7 @@ ___
 
 ## Code 102 Reading Notes
 
-## [Intro to Software Development](read102)
+## Intro to Software Development
 
  **Assignment**| **Link**
 ------------ | -------------
@@ -36,7 +36,7 @@ Read06       | [Design web pages with CSS](readings/reading06.md)
 
 ## Code 201 Reading Notes
 
-## [Foundations of Software Development](read201)
+## Foundations of Software Development
 
  **Assignment**| **Link**
 ------------ | -------------
@@ -58,7 +58,7 @@ Read14b      | [What Google Learned About Teams](read201/read14b.md)
 
 ## Code 301 Reading Notes
 
-## [Intermediate Software Development](read301)
+## Intermediate Software Development
 
  **Assignment**| **Link**
 ------------ | -------------
