@@ -82,7 +82,7 @@ Read13       | [CRUD](read301/read13.md)
 
  **Assignment**| **Link**
 ------------ | -------------
-Read01       | []()
+Read01       | [Pain vs. Suffering](read401/read01.md)
 Read02       | []()
 Read03       | []()
 Read04       | []()
