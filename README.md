@@ -84,7 +84,7 @@ Read13       | [CRUD](read301/read13.md)
 ------------ | -------------
 Read01       | [Pain vs. Suffering](read401/read01.md)
 Read02       | [Testing and Modules](read401/read02.md)
-Read03       | []()
+Read03       | [FileIO & Exceptions](read401/read03.md)
 Read04       | []()
 Read05       | []()
 Read06       | []()
