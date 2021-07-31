@@ -1,6 +1,6 @@
 # Random Module in Python
 
-## We want the computer to pick a random number in a given range Pick a random element from a list, pick a random card from a deck, flip a coin etc. When making your password database more secure or powering a random page feature of your website.
+We want the computer to pick a random number in a given range Pick a random element from a list, pick a random card from a deck, flip a coin etc. When making your password database more secure or powering a random page feature of your website.
 
 ### Randint
 
@@ -42,7 +42,8 @@ Output:
 
 ### Randrange
 
-```random.randrange(start, stop[, step])
+```
+random.randrange(start, stop[, step])
 
 import random
 for i in range(3):
