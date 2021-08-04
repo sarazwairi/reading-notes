@@ -91,5 +91,7 @@ Read06       | [Game of Greed 1](read401/read06.md)
 Read07       | [Game of Greed 2](read401/read07.md)
 Read08       | [Game of Greed 3](read401/read08.md)
 Read09       | [Game of Greed 4](read401/read09.md)
+Read10       | [Stacks and Queues](read401/read10.md)
+
 
 
