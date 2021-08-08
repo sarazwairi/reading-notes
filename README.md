@@ -93,6 +93,7 @@ Read08       | [Game of Greed 3](read401/read08.md)
 Read09       | [Game of Greed 4](read401/read09.md)
 Read10       | [Stacks and Queues](read401/read10.md)
 Read11       | [Data Analysis](read401/read11.md)
-
+Read12       | [10 minutes to pandas](read401/read12.md)
+Read13       | [Linear Regressions](read401/read13.md)
 
 
