@@ -98,4 +98,5 @@ Read13       | [Linear Regressions](read401/read13.md)
 Read14       | [Data Visualization](read401/read14.md)    
 Read15       | [Implementation: Trees](read401/read15.md) 
 Read16       | [Machine Learning Intro](read401/read16.md) 
+Read17       | [Web Scraping](read401/read17.md) 
 
