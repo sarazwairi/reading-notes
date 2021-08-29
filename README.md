@@ -101,4 +101,6 @@ Read16       | [Machine Learning Intro](read401/read16.md)
 Read17       | [Web Scraping](read401/read17.md) 
 Read18       | [Cryptography](read401/read18.md) 
 Read19       | [Automation](read401/read19.md) 
-Read20       | [Intro to Django](read401/read20.md) 
+Read26       | [Intro to Django](read401/read26.md) 
+Read27       | [Django Models](read401/read27.md) 
+
