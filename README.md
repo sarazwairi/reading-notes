@@ -103,4 +103,4 @@ Read18       | [Cryptography](read401/read18.md)
 Read19       | [Automation](read401/read19.md) 
 Read26       | [Intro to Django](read401/read26.md) 
 Read27       | [Django Models](read401/read27.md) 
-
+Read28       | [Django CRUD and Forms](read401/read28.md) 
