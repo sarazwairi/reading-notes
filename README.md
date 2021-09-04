@@ -106,4 +106,5 @@ Read27       | [Django Models](read401/read27.md)
 Read28       | [Django CRUD and Forms](read401/read28.md) 
 Read29       | [Django Custom User](read401/read29.md) 
 Read30       | [Hash Tables](read401/read30.md) 
+Read31       | [Django REST Framework & Docker](read401/read31.md) 
 
