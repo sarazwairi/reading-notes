@@ -108,5 +108,7 @@ Read29       | [Django Custom User](read401/read29.md)
 Read30       | [Hash Tables](read401/read30.md) 
 Read31       | [Django REST Framework & Docker](read401/read31.md) 
 Read32       | [Permissions & Postgresql](read401/read32.md) 
+Read33       | [Authentication & Production Server](read401/read33.md) 
+
 
 
