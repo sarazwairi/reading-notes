@@ -15,7 +15,7 @@ Conditional rendering in React works the same way conditions work in JavaScript.
 ## Lists and Keys
 
 * Following is the way of implementing a list.
-
+```
 import React, { Component } from "react";class List extends Component {
   students = [
     { id: 1, name: "Amal", age: 25 },
@@ -38,6 +38,7 @@ import React, { Component } from "react";class List extends Component {
     </div>
   );
 };export default List;
+```
 
 * Keys are used to uniquely identify elements in a list and it helps react to identify what is added, updated and changed. 
 
