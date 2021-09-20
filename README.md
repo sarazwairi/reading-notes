@@ -117,6 +117,8 @@ Read38       | [ React 2](read401/read38.md)
 Read39       | [ React 3](read401/read39.md) 
 Read41       | [ React 4](read401/read41.md) 
 Read42       | [Pythonisms](read401/read42.md) 
+Read43       | [Ethics](read401/read43.md) 
+Read44       | [Open-Source Software Contribution](read401/read44.md) 
 
 
 
